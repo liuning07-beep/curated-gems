@@ -12,5 +12,19 @@
 "summary_zh": "NPR Life Kit 汇集视觉搜索科学家、金属探测爱好者与侦探的经验，提出6种行之有效的找物策略：锁定物品的显著特征、基于情境推理可能丢失路径、复现场景与物品轨迹、改变观察视角、刻意搜寻低概率位置、以及采用网格式系统搜索。文章强调坚持与韧性的重要性，并以作者在床垫与床沿间找回护照为例加以说明。",
 "best_quote_en": "“Imagine your search environment as a grid. Cover each square in the grid, maybe top to bottom, left to right.”",
 "best_quote_zh": "“把你的搜索环境想象成网格。逐格覆盖，或自上而下、由左至右地搜索。”"
+},
+ {
+    "id": 2,
+    "title": "McKinsey Technology Trends Outlook 2025",
+    "title_zh": "麦肯锡2025技术趋势展望",
+    "source": "McKinsey & Company",
+    "link": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech",
+    "tags": ["Technology", "Trends", "Innovation"],
+    "tags_zh": ["技术", "趋势", "创新"],
+    "date": "2025-07-22",
+    "summary_en": "The article 'McKinsey Technology Trends Outlook 2025' discusses 13 frontier technology trends that are poised to reshape global business. The report highlights how fast-moving innovations are driving significant shifts in the global technology landscape, increasing demand for computing power and accelerating experimentation. It identifies new trends like agentic AI and application-specific semiconductors, and notes that some technologies, particularly AI, are scaling rapidly, while others like quantum technologies require further advancements. The report also highlights overarching themes, including the rise of autonomous systems, new human-machine collaboration models, and challenges related to scaling, regional competition, and responsible innovation.",
+    "summary_zh": "这篇名为《麦肯锡2025技术趋势展望》的文章探讨了13个有望重塑全球商业的前沿技术趋势。报告强调了快速发展的创新如何推动全球技术格局发生重大转变，增加了对计算能力的需求并加速了实验。它识别了诸如代理式人工智能和应用特定半导体等新趋势，并指出某些技术，尤其是人工智能，正在迅速规模化，而量子技术等其他技术则需要进一步发展。报告还指出了贯穿这些趋势的总体主题，包括自主系统的兴起、新的人机协作模式以及与规模化、区域竞争和负责任创新相关的挑战。",
+    "best_quote_en": "Artificial intelligence stands out not only as a powerful technology wave on its own but also as a foundational amplifier of the other trends. Its impact increasingly occurs via a combination with other trends, as AI both accelerates progress within individual domains and unlocks new possibilities at the intersections—accelerating the training of robots, advancing scientific discoveries in bioengineering, optimizing energy systems, and much more.",
+    "best_quote_zh": "人工智能不仅本身是一股强大的技术浪潮，也是其他趋势的基础放大器。它的影响越来越多地通过与其他趋势的结合而产生，因为人工智能既能加速各个领域的进步，又能在交叉领域开启新的可能性——加速机器人训练、推进生物工程领域的科学发现、优化能源系统等等。"
 }
 ]
