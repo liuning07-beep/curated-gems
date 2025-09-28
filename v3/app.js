@@ -448,6 +448,7 @@ function renderTags(list) {
    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
   ${esc(t)} <span class="tag-count">(${count})</span>
 </span>`;
+  }).join('');
 }
 
 // 清除所有标签筛选
