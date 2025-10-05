@@ -117,4 +117,119 @@
     "best_quote_en": "Technology, when designed well, can expand our perceptual capabilities and create new pathways for neuroplasticity rather than diminishing our cognitive skills.",
     "best_quote_zh": "精心设计的技术能够扩展我们的感知能力，为神经可塑性创造新途径，而不是削弱我们的认知技能。"
   }
-]
+,{
+    "id": 6,
+    "title": "Book of the month: Ning Ken",
+    "title_zh": "本月之书：宁肯",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/09/25/book-of-the-month-ning-ken/",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "Ning Ken's 'Tibetan Sky' emerges as a profound literary exploration that challenges Western epistemological frameworks through its Tibetan setting. The novel masterfully blends love story with philosophical discourse, using authorial intrusions to deconstruct narrative conventions and cultural assumptions. What makes this work particularly valuable is its examination of 'not-knowing' as an epistemological state - the bewilderment one experiences when encountering unfamiliar cultural codes becomes a gateway to deeper understanding rather than a barrier. The book's treatment of globalization's impact on Tibetan culture, coupled with its subtle political commentary, creates a rich tapestry that invites readers to question their own cultural biases. Ning Ken achieves something rare: a work that is simultaneously a cross-cultural bridge and a mirror reflecting our own limited perspectives.",
+    "summary_zh": "宁肯的《天葬》通过西藏背景挑战西方认知框架，将爱情故事与哲学探讨巧妙融合。小说最珍贵之处在于将'未知'作为一种认知状态来探索——面对陌生文化密码时的困惑不是障碍，而是通向更深理解的途径。作者插入的评论既解构叙事常规，又软化人物棱角，同时展现全球化对西藏文化的影响与微妙的政治评论。这部作品既是跨文化桥梁，又是映照我们自身局限的镜子，让人重新思考阅读与理解的本质。",
+    "best_quote_en": "'While fiction is, of course, made up, we should think of it as the art form of the exploration of the possible, fiction imagines different possible lives.'",
+    "best_quote_zh": "'小说虽然是虚构的，但我们应该将其视为探索可能的艺术形式，小说想象着不同的可能生活。'"
+  },
+  {
+    "id": 7,
+    "title": "Billionaires Build",
+    "title_zh": "亿万富翁的构建之道",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ace.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "Paul Graham dismantles the political myth that billionaires succeed primarily through exploitation, drawing from his Y Combinator experience to reveal the authentic drivers of massive startup success. The essay brilliantly connects YC's funding criteria with billionaire psychology, arguing that genuine user obsession—not predatory behavior—is the true differentiator. Graham's insider perspective shows how YC identifies founders who understand latent markets and possess authentic passion, using the 'larval market' concept to explain how small, passionate user groups evolve into massive opportunities. Most compelling is his revelation that the best founders treat their companies as personal projects they can't abandon, not just financial vehicles. This reframes billionaires not as exploiters but as ultra-committed creators who persist because they genuinely love solving problems for users.",
+    "summary_zh": "保罗·格雷厄姆以YC合伙人的独特视角，颠覆了‘剥削致富’的政治叙事。他揭示亿万富翁的真实特质是对用户需求的痴迷而非剥削欲望，并详细解析YC如何通过‘幼虫市场’理论识别具备巨大潜力的创始人。最深刻的洞察在于：真正成功的创业者将公司视为无法放弃的个人项目，这种内在驱动比金钱欲望更为强大。文章不仅为创业者提供了实用的YC面试指南，更为社会流动性提供了诚实的方向——告诉年轻人真正的致富之路在于创造价值而非剥削他人。",
+    "best_quote_en": "The defining quality of people who become billionaires from starting companies is that there's nothing else they'd rather do. What keeps them working is the same thing that keeps anyone else working when they could stop if they wanted to: genuine interest in what they're building.",
+    "best_quote_zh": "通过创办公司成为亿万富翁的人的定义特质是：他们没有其他更想做的事情。让他们持续工作的动力与任何其他可以在想停时停下来的人一样：对他们正在构建的事物抱有真正的兴趣。"
+  },
+  {
+    "id": 8,
+    "title": "What Happens to School Lunches in the MAHA Era?",
+    "title_zh": "MAHA时代下的学校午餐将何去何从？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-happens-to-school-lunches-in-the-maha-era",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This deeply reported article examines the paradoxical collapse of farm-to-school programs under the Trump administration's MAHA (Make America Healthy Again) agenda. While R.F.K. Jr. and Agriculture Secretary Brooke Rollins publicly champion local, organic school meals, their administration eliminated $1 billion in Biden-era funding that supported small farmers supplying schools. The piece masterfully exposes the disconnect between political rhetoric and policy reality through poignant case studies like Bardwell Farms, which lost $200,000 in contracts and was forced to till crops back into the soil. What makes this analysis particularly valuable is its nuanced exploration of the complex ecosystem surrounding school nutrition—from the practical challenges of USDA regulations that ironically discourage scratch cooking, to research showing school meals often outperform home-packed lunches nutritionally. The article ultimately reveals how health-focused political movements can be undermined by ideological opposition to government spending and regulation, leaving both farmers and children in a worse position despite lofty promises.",
+    "summary_zh": "本文犀利揭示了MAHA健康倡议与政策现实间的巨大鸿沟：尽管政府高调倡导本地有机校餐，却取消了支持小农的十亿美元拨款。通过巴德韦尔农场被迫犁掉作物的悲惨案例，我们看到政治口号如何伤害真实生计。文章最深刻之处在于超越简单批判，深入探讨了校餐系统的复杂性——从 USDA 法规如何意外阻碍健康烹饪，到研究显示校餐其实比家庭午餐更有营养。这不仅是关于校餐的讨论，更是对政治理想主义与治理现实矛盾的精彩剖析，让人反思：没有资金支持的政策承诺，终究只是空中楼阁。",
+    "best_quote_en": "\"The funding also gave us the chance to provide food to people in need, and it gave students a taste of fresh, local products. Now I feel like there are a lot of kids who aren't going to be eating as well as they were before.\"",
+    "best_quote_zh": "“这些资金让我们有机会为需要的人提供食物，让学生尝到新鲜的本地产品。现在我觉得很多孩子再也吃不到以前那么好的饭菜了。”"
+  },
+  {
+    "id": 9,
+    "title": "Three Observations",
+    "title_zh": "三个观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "This article presents a compelling vision of AGI's transformative potential through three key economic observations: logarithmic scaling of intelligence with resources, rapid cost reduction driving adoption, and super-exponential socioeconomic value from linear intelligence gains. The analysis thoughtfully balances optimism about unprecedented human empowerment with sober recognition of distributional challenges. What makes this particularly valuable is its grounding in concrete economic patterns rather than speculative futurism—the comparison to transistor economics provides a useful historical anchor. The discussion of potential power imbalances between capital and labor shows sophisticated awareness of societal risks beyond technical implementation. This represents a rare blend of visionary thinking and pragmatic consideration of implementation challenges.",
+    "summary_zh": "本文通过三个关键经济观察，深刻阐述了AGI的变革潜力：智能与资源对数增长、成本快速下降推动应用、线性智能增长带来超指数社会经济价值。文章既乐观展望人类前所未有的赋能前景，又清醒认识到分配挑战。其价值在于基于具体经济模式而非空想未来主义——与晶体管经济的比较提供了有用的历史参照。关于资本与劳动力潜在权力失衡的讨论，显示出对技术实施之外社会风险的深刻认知。这是愿景思维与务实考量的罕见结合。",
+    "best_quote_en": "Anyone in 2035 should be able to marshall the intellectual capacity equivalent to everyone in 2025; everyone should have access to unlimited genius to direct however they can imagine.",
+    "best_quote_zh": "2035年的任何人都应该能够调动相当于2025年全人类的智力容量；每个人都应该能够获得无限的天才资源，并按自己的想象来指挥它们。"
+  },
+  {
+    "id": 10,
+    "title": "DAVID SENRA: Daniel Ek, Spotify",
+    "title_zh": "大卫·森拉：丹尼尔·埃克，Spotify",
+    "source": "Huberman Lab",
+    "link": "https://davidsenra.com/episode/daniel-ek-spotify",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This inaugural episode of David Senra's podcast featuring Spotify CEO Daniel Ek offers a profound exploration of entrepreneurial philosophy and leadership development. The conversation transcends typical business interviews by delving into Ek's personal evolution from self-motivated founder to visionary leader. Particularly compelling are Ek's reflections on balancing personal intuition with data-driven decision making, his emphasis on building companies that outlast their founders, and his unconventional perspective on optimizing for impact rather than happiness. The discussion provides rare insights into how world-class leaders navigate the tension between artistic vision and commercial success, with Ek's experiences at Spotify serving as a compelling case study in sustained innovation. What makes this conversation exceptional is its raw honesty about the emotional and intellectual challenges of scaling a globally transformative company while maintaining personal integrity.",
+    "summary_zh": "这期播客展现了丹尼尔·埃克从创业者到企业领袖的心路历程，其关于'影响力优先于幸福感'的哲学思考令人深思。他分享的如何在个人直觉与数据决策间取得平衡、打造比创始人更长寿的企业的理念，对当代创业者具有重要启示。埃克对信任的力量和持续学习的强调，体现了真正领导者的智慧与谦逊。",
+    "best_quote_en": "Optimizing for impact over happiness reveals that meaningful work and lasting legacy often bring deeper fulfillment than transient pleasure ever could.",
+    "best_quote_zh": "优先考虑影响力而非幸福感，你会发现有意义的工作和持久的遗产往往比短暂的快乐带来更深的满足感。"
+  }]
