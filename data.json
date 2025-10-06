@@ -232,4 +232,117 @@
     "summary_zh": "这期播客展现了丹尼尔·埃克从创业者到企业领袖的心路历程，其关于'影响力优先于幸福感'的哲学思考令人深思。他分享的如何在个人直觉与数据决策间取得平衡、打造比创始人更长寿的企业的理念，对当代创业者具有重要启示。埃克对信任的力量和持续学习的强调，体现了真正领导者的智慧与谦逊。",
     "best_quote_en": "Optimizing for impact over happiness reveals that meaningful work and lasting legacy often bring deeper fulfillment than transient pleasure ever could.",
     "best_quote_zh": "优先考虑影响力而非幸福感，你会发现有意义的工作和持久的遗产往往比短暂的快乐带来更深的满足感。"
+  },{
+    "id": 11,
+    "title": "*Give away* The Gifts of Reading for the Next Generation",
+    "title_zh": "为下一代传递阅读的礼物",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/09/18/give-away-the-gifts-of-reading-for-the-next-generation/",
+    "tags": [
+      "inspire",
+      "education",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "This insightful essay explores the enduring power of reading among younger generations, backed by compelling statistics showing that 48.2% of translated fiction buyers in the UK are under 35. The author reflects on their personal experiences engaging with young readers globally, revealing an unexpected international enthusiasm for literature. The piece introduces a meaningful anthology project that channels royalties toward educating women in low-income countries, creating a beautiful intersection between literary appreciation and social impact. What fascinates me most is how reading bridges cultural divides—from a Beijing boy's tomato book recommendation to UK publishing statistics—demonstrating literature's unique ability to connect generations and geographies through shared curiosity.",
+    "summary_zh": "这篇文章深刻揭示了年轻一代对阅读的热情，数据显示英国48.2%的翻译小说买家是35岁以下读者。作者通过全球年轻读者的互动经历，展现了阅读跨越文化的连接力。特别值得关注的是，这个文集项目将版税捐赠给女性教育机构，实现了文学价值与社会价值的完美结合。最打动我的是阅读如何成为代际之间的礼物—从北京小男孩的番茄书推荐到伦敦书店的发布会，阅读始终是传递智慧与关怀的桥梁。",
+    "best_quote_en": "'book buyers under the age of 35 account for almost half (48.2%) of all translated fiction purchases in the UK'",
+    "best_quote_zh": "“35岁以下的图书买家占英国所有翻译小说购买量的近一半（48.2%）”"
+  },
+  {
+    "id": 12,
+    "title": "The Airbnbs",
+    "title_zh": "爱彼迎创始人们",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnbs.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This insider account reveals the extraordinary determination and founder-market fit that propelled Airbnb's success against all odds. What's fascinating isn't just the familiar startup struggle narrative, but the specific psychological drivers: the founders' firsthand experience as hosts gave them unshakable conviction in their product's value before anyone else could see it. Their note-taking obsession and immediate implementation of feedback demonstrate a rare learning velocity that became their competitive advantage. The most compelling insight is how they turned desperation into precision—focusing exclusively on New York during the 2008 recession wasn't just strategic, but revealed their core market: people needing rental income to survive. This piece challenges our romantic notions of startup success by showing how near-failure conditions can forge exceptional operational discipline and customer empathy.",
+    "summary_zh": "这篇文章深刻揭示了爱彼迎成功背后的真实动力：不是商业模式创新，而是创始人近乎偏执的执行力和对用户需求的深度共情。最令人震撼的是他们在绝望中的坚持——信用卡刷爆、投资者离席、经济危机背景下，依然因为自己作为房东的亲身经历而坚信共享住宿的价值。他们亲自为纽约房东拍摄照片的细节，体现了初创企业最珍贵的品质：直接触碰用户痛点。这种从濒死体验到指数增长的故事，重新定义了创业精神的核心——不是看到机会，而是在无人相信时依然坚持的信念。",
+    "best_quote_en": "People, like matter, reveal their nature under extreme conditions.",
+    "best_quote_zh": "人就像物质一样，在极端条件下才会显现其本质。"
+  },
+  {
+    "id": 13,
+    "title": "Donald Trump, Pete Hegseth, and the “War from Within”",
+    "title_zh": "唐纳德·特朗普、皮特·赫格塞斯与'内部战争'",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/13/donald-trump-pete-hegseth-and-the-war-from-within",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This deeply unsettling analysis examines Trump's second-term militarization of domestic policy through the lens of performative authoritarianism. Wallace-Wells astutely captures the dangerous paradox of a president simultaneously pursuing Nobel Peace Prize recognition while rebranding the Pentagon as the 'Department of War' and deploying military rhetoric against American cities. The article reveals how Trump's domestic military operations—from Chicago's immigration raids to Portland's 'anti-terrorism' deployments—function more as political theater than substantive policy, creating the appearance of decisive action while primarily serving to consolidate executive power. Most chilling is the legal framework emerging through the declaration of 'armed conflict' against drug trafficking, which potentially unlocks wartime powers without congressional oversight. The piece serves as a brilliant dissection of how democratic norms erode not through dramatic coups but through incremental militarization of civil society, wrapped in the language of national security.",
+    "summary_zh": "本文犀利剖析特朗普第二任期将军事手段国内化的危险倾向。作者捕捉到令人不安的矛盾：一边追求诺贝尔和平奖，一边将国防部更名为'战争部'，并用战争修辞对待美国城市。这些国内军事行动更多是政治表演而非实质政策，从芝加哥移民突袭到波特兰'反恐'部署，实际效果有限却为扩大行政权力创造借口。最令人担忧的是通过宣布与毒品贸易'武装冲突'来解锁战时权力的法律框架。文章深刻揭示了民主规范如何通过民事社会军事化而非戏剧性政变逐渐侵蚀。",
+    "best_quote_en": "Each of these steps has elements of military theatrics and cosplay authoritarianism, but the more the White House insists on the trappings of war—the troop deployments, the 'warrior ethos' grooming, the emergency legal powers—the more it risks nudging us toward an actual one.",
+    "best_quote_zh": "这些步骤都带有军事戏剧和角色扮演式威权主义的元素，但白宫越是坚持战争的装饰——部队部署、'战士精神'培养、紧急法律权力——就越有可能将我们推向真正的战争。"
+  },
+  {
+    "id": 14,
+    "title": "Brief life advice/Codenames/The Scale of Life",
+    "title_zh": "简要人生建议/密码代号/生活尺度",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/brief-life-advice-codenames-the-scale-of-life/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "教育学习"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This eclectic collection from Recomendo offers six distinct pieces of wisdom spanning personal development, entertainment, data visualization, practical tech solutions, social hosting, and philosophical reflection. The content demonstrates remarkable range—from Dan Pink's concise life advice to real-time global statistics visualization—while maintaining consistent value across domains. What makes this compilation particularly compelling is its blend of actionable practicality (the ring light solution, party planning tips) with profound philosophical inquiry (the curated quotes section). The recommendations balance immediate utility with long-term perspective-shifting value, offering something for both the pragmatist seeking quick fixes and the contemplative reader looking for deeper meaning. The inclusion of both paid products and free resources creates an interesting tension between commercial recommendation and genuine wisdom-sharing.",
+    "summary_zh": "这份精选合集展现了非凡的内容广度——从丹·平克浓缩的人生智慧到实时全球数据可视化，既有立竿见影的实用方案（环形补光灯、派对策划技巧），又包含发人深省的哲学思考（精选箴言）。内容在商业推荐与真诚智慧分享之间保持微妙平衡，既提供具体解决方案，又启发长期视角转变。特别值得注意的是其中对生活仪式感（派对作为公共服务）与技术普惠性（通用环形灯）的并重思考，体现了数字时代下人文关怀与技术实用的融合。",
+    "best_quote_en": "\"We are as personally free as we can permit the autonomy of others.\" — Antero Alli",
+    "best_quote_zh": "\"我们所能获得的个人自由，取决于我们能够允许他人拥有多少自主权。\" — 安特罗·艾利"
+  },
+  {
+    "id": 15,
+    "title": "Reflections",
+    "title_zh": "反思",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reflections",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2025-01-06",
+    "summary_en": "Sam Altman's personal reflection offers a rare glimpse into OpenAI's tumultuous journey from an obscure research lab to the epicenter of the AI revolution. His candid account reveals the profound challenges of building a company around unprecedented technology, including the chaotic scaling process, governance failures, and his unexpected firing. What makes this piece particularly valuable is its honest portrayal of leadership under extreme pressure and the acknowledgment that even visionary founders operate without a roadmap. Altman's insights into AGI development timelines—predicting workforce-ready AI agents by 2025 and looking beyond to superintelligence—provide concrete milestones in an often abstract field. The essay balances technological optimism with hard-won wisdom about organizational growing pains, making it essential reading for anyone interested in the human side of technological transformation.",
+    "summary_zh": "奥特曼的坦诚反思展现了OpenAI从研究实验室到AI革命中心的艰辛历程。他罕见地公开了被意外解雇的细节和治理教训，同时保持对AGI愿景的坚定信念。这篇文章的价值在于揭示了颠覆性技术创新背后真实的人性挣扎与领导力成长，而不仅仅是技术乐观主义。对于创业者和科技从业者来说，这是关于愿景坚持与组织演化的深刻一课。",
+    "best_quote_en": "Moving at speed in uncharted waters is an incredible experience, but it is also immensely stressful for all the players. Conflicts and misunderstanding abound.",
+    "best_quote_zh": "在未知水域高速前行是一种不可思议的经历，但对所有参与者来说也是极其紧张的。冲突和误解无处不在。"
   }]
