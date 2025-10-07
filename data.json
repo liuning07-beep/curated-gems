@@ -345,4 +345,117 @@
     "summary_zh": "奥特曼的坦诚反思展现了OpenAI从研究实验室到AI革命中心的艰辛历程。他罕见地公开了被意外解雇的细节和治理教训，同时保持对AGI愿景的坚定信念。这篇文章的价值在于揭示了颠覆性技术创新背后真实的人性挣扎与领导力成长，而不仅仅是技术乐观主义。对于创业者和科技从业者来说，这是关于愿景坚持与组织演化的深刻一课。",
     "best_quote_en": "Moving at speed in uncharted waters is an incredible experience, but it is also immensely stressful for all the players. Conflicts and misunderstanding abound.",
     "best_quote_zh": "在未知水域高速前行是一种不可思议的经历，但对所有参与者来说也是极其紧张的。冲突和误解无处不在。"
+  },{
+    "id": 16,
+    "title": "Book of the month: Nauja Lynge",
+    "title_zh": "本月之书：Nauja Lynge",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/08/29/book-of-the-month-nauja-lynge/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "This analysis of Nauja Lynge's 'Ivalu's Color' reveals a fascinating case study in cross-cultural literary adaptation. The Greenlandic-Danish author subverts the crime novel genre to explore post-colonial identity politics, using the murder mystery framework as a vehicle for examining Inuit sovereignty debates and external geopolitical interests in the Arctic. What makes this particularly valuable is Lynge's conscious rejection of Western narrative conventions—she prioritizes political discourse over character development and employs storytelling techniques that align with Inuit oral traditions rather than European literary expectations. The book's discomforting portrayal of foreign agents and challenging gender perspectives forces Anglophone readers to confront their own cultural biases. This isn't merely a novel about Greenland; it's a meta-commentary on how storytelling itself becomes an act of cultural resistance when marginalized voices reclaim narrative structures.",
+    "summary_zh": "Nauja Lynge的《伊瓦卢的颜色》展现了后殖民文学创作的独特尝试。这位格陵兰-丹麦裔作家巧妙颠覆犯罪小说传统，将谋杀谜案转化为政治评论的载体，探讨因纽特人的身份认同与主权问题。作品最值得关注的是其叙事方式——故意弱化人物刻画，强调集体政治话语，这种手法与西方文学传统形成鲜明对比，却更接近因纽特口述传统。阅读过程可能令人不适，却迫使读者反思自身的文化偏见。这不仅是关于格陵兰的小说，更是边缘声音重新夺回叙事主导权的文化抵抗实践。",
+    "best_quote_en": "It's almost as if there is a chapter in our common history missing. My major concern is that we open the doors to outsiders before we are ready to welcome them. Things take time. This applies to Greenland to such an extent that we might be better off seeing ourselves as a developing country, not co-opted immediately into the international economy.",
+    "best_quote_zh": "仿佛我们共同历史中缺失了一个章节。我主要担心的是，在我们准备好迎接外人之前就向他们敞开大门。事情需要时间。这对格陵兰来说尤其如此，我们或许更应该将自己视为发展中国家，而不是立即被纳入国际经济体系。"
+  },
+  {
+    "id": 17,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Paul Graham's essay offers a profound exploration of independent-mindedness as a critical differentiator in creative and intellectual work. He argues that true innovation—whether in science, investing, startups, or writing—requires not just correctness but novel thinking that diverges from consensus. The piece distinguishes between work demanding independent thought (research, entrepreneurship) and roles where conformity suffices (administration), suggesting this dichotomy shapes career satisfaction. Graham identifies three components of independent-mindedness: truth fastidiousness, resistance to external influence, and curiosity, noting their interchangeability. His most valuable insight lies in the Dunning-Kruger-like paradox where conventional thinkers overestimate their independence while truly independent minds self-doubt. The essay transcends self-help by framing independent thought as both innate trait and cultivatable skill through environmental curation and intellectual habits.",
+    "summary_zh": "保罗·格雷厄姆深刻剖析了独立思考在创新工作中的核心价值，指出真正突破需要既正确又新颖的见解。他将工作分为需要独立思维和允许从众两类，认为人格与工作的匹配决定职业幸福感。文章提出独立思考三要素：求真严谨、反权威倾向和好奇心，三者可相互补偿。最具启发性的是指出传统思维者常高估自己的独立性，而真正独立者反而自我怀疑——这种认知偏差让人反思自身思维模式。",
+    "best_quote_en": "The only valuable insights are the ones most other investors don't share.",
+    "best_quote_zh": "唯一有价值的见解是大多数其他投资者都不认同的那些。"
+  },
+  {
+    "id": 18,
+    "title": "Why Israel and Hamas Might Finally Have a Deal",
+    "title_zh": "为什么以色列和哈马斯最终可能达成协议",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This analysis reveals a pivotal moment in the Israel-Hamas conflict where three converging factors create unprecedented conditions for a potential deal: Hamas's shift from ideology to political survival, Trump's unique transactional diplomacy leveraging Gulf state relationships, and Netanyahu's electoral dependence on Trump's popularity. The article exposes how Trump's situational approach—devoid of traditional diplomatic principles—paradoxically creates more leverage than Biden's conventional methods. Most critically, it questions whether this deal represents genuine conflict resolution or merely a tactical pause, as Hamas's disarmament remains unlikely and long-term peace prospects appear distant. The analysis highlights the troubling blurring of US national interests with Trump's personal financial and political gains, particularly through Gulf state relationships.",
+    "summary_zh": "这篇文章揭示了巴以冲突中一个关键转折点：哈马斯从意识形态转向政治生存的计算、特朗普利用海湾国家关系的特殊交易式外交，以及内塔尼亚胡选举对特朗普依赖的三重因素罕见交汇。最深刻的洞察在于，这种缺乏传统外交原则的情境主义方法反而创造了非常规杠杆作用。但协议可能只是战术性停火而非真正解决方案，哈马斯解除武装的可能性极低，长期和平前景依然渺茫。令人担忧的是美国国家利益与特朗普个人政治经济利益之间的界限模糊化。",
+    "best_quote_en": "\"The line between the American national interest and Trump's own financial and political interests... they were already being blurred during Trump 1.0. Now they're seamless. He's transactional, he's situational, and it is the absence of core principles that allows him to pivot in a way that no other American President could have ever done.\"",
+    "best_quote_zh": "\"美国国家利益与特朗普个人财务和政治利益之间的界限……在特朗普第一任期就已经模糊。现在它们已经无缝衔接。他是交易性的，他是情境性的，正是核心原则的缺失让他能够以其他美国总统从未有过的方式转向。\""
+  },
+  {
+    "id": 19,
+    "title": "North America Adventures",
+    "title_zh": "北美冒险指南",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/north-america-adventures/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This article presents two exceptional travel guides that transcend conventional tourism literature. 'The People's Guide to Mexico' stands out as a masterpiece of immersive travel writing, offering four decades of accumulated wisdom about authentic Mexican experiences beyond tourist traps. Its value lies not in hotel recommendations but in cultural immersion strategies, safety advice, and practical survival tips for navigating Mexico's backroads. The Milepost for Alaska provides similarly granular, mile-by-mile guidance for northern road trips, updated annually with current road conditions. Both guides represent the pinnacle of travel literature—combining practical utility with deep cultural insights. What makes these guides extraordinary is their focus on experiential travel rather than convenience tourism, teaching readers how to engage with local cultures respectfully and safely while embracing adventure.",
+    "summary_zh": "本文推荐的两本旅行指南超越了传统旅游手册的范畴。《墨西哥人民指南》凝聚了作者35年的实地经验，专注于真正的文化沉浸而非酒店推荐，提供了从驾驶安全到健康管理的全面生存智慧。《里程标》则提供了阿拉斯加公路的精确到每英里的路况信息。这两本书的共同价值在于：它们教会旅行者如何与当地文化深度互动，而非仅仅作为旁观者。这种旅行哲学强调体验而非舒适，冒险而非安全，真正实现了旅行作为教育和个人成长的意义。",
+    "best_quote_en": "Where The People's Guide transcends the usual guidebook is in its devotion to the blue highways and backlands, the off beat places and indigenous living.",
+    "best_quote_zh": "《人民指南》超越普通旅行书之处在于它对蓝色公路和偏远地区的专注，那些非主流的地方和土著生活。"
+  },
+  {
+    "id": 20,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "OpenAI's GPT-4o announcement reveals a strategic pivot from creating direct AI benefits to empowering global users with free, state-of-the-art tools. The post emphasizes democratizing access to advanced AI without ads, highlighting the new voice/video interface as a breakthrough in natural human-computer interaction. What's particularly insightful is the admission that their initial mission evolved—they now enable others to build amazing applications rather than building everything themselves. The emphasis on free access while maintaining sustainable business models shows mature platform thinking. The visceral description of the new interface suggests we've crossed a threshold where AI feels genuinely human-like rather than merely functional.",
+    "summary_zh": "OpenAI宣布GPT-4o免费提供，体现从自建生态到赋能开发者的战略转变。新语音视频界面突破人机交互瓶颈，达到电影级自然体验。最值得深思的是其商业模式的成熟：通过部分收费服务支撑全球免费访问，真正实现AI民主化。这不仅是技术飞跃，更是平台思维的胜利。",
+    "best_quote_en": "Getting to human-level response times and expressiveness turns out to be a big change.",
+    "best_quote_zh": "达到人类水平的响应时间和表现力原来是一个重大变革。"
   }]
